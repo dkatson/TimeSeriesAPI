@@ -23,7 +23,7 @@ page 50118 "Data Preparation"
 
                 trigger OnAction()
                 begin
-                    Codeunit.Run(50101);
+                    Codeunit.Run(Codeunit::"Items History Generator");
                 end;
             }
         }
