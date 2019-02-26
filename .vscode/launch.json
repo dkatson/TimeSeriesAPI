@@ -9,7 +9,7 @@
             "serverInstance": "NAV",
             "authentication": "UserPassword",
             "startupObjectType": "Page",
-            "startupObjectId": 50101,
+            "startupObjectId": 50119,
             "breakOnError": true
         }
     ]
