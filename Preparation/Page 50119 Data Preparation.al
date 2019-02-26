@@ -1,4 +1,4 @@
-page 50118 "Data Preparation"
+page 50119 "Data Preparation"
 {
     PageType = Card;
     ApplicationArea = All;
