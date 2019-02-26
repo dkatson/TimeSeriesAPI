@@ -1,4 +1,4 @@
-codeunit 50101 "Items History Generator"
+codeunit 50119 "Items History Generator"
 {
     var
         LineNo: Integer;
