@@ -1,5 +1,7 @@
 codeunit 50119 "Items History Generator"
 {
+    Permissions = tabledata "Item Ledger Entry" = rimd;
+
     var
         LineNo: Integer;
 
