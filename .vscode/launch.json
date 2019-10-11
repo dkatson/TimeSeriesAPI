@@ -6,7 +6,7 @@
             "request": "launch",
             "name": "Your own server",
             "server": "http://bccurrent",
-            "serverInstance": "NAV",
+            "serverInstance": "BC",
             "authentication": "UserPassword",
             "startupObjectType": "Page",
             "startupObjectId": 31,
